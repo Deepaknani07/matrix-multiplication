@@ -29,4 +29,4 @@ print("\nTranspose of Matrix A:\n", transpose_A)
 # 4. Determinant
 # -----------------------------
 det_A = np.linalg.det(A)
-print("\nDeterminant of Matrix A:", det_A)         d
+print("\nDeterminant of Matrix A:", det_A)         
